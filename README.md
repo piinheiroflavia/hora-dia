@@ -1,7 +1,8 @@
-<h1>Hora, Dia da Semana e Data<h1>
-
-
-<p>Projeto simples que consiste em informar a data, hora e dia da semana, tendo como mudança imagem e background de acordo com o sistema do seu dispositivo. Base de início no curso em vídeo ministrado pelo professor Gustavo Guanabara, mas com umas adições a mais<p>
+<h1>Hora, Dia da Semana e Data<h1><br><br>
+<p>Projeto simples que consiste em informar a data, hora e dia da semana, tendo como mudança imagem e background de acordo com o sistema do seu dispositivo. Base de início no curso em vídeo ministrado pelo professor Gustavo Guanabara, mas com umas adições a mais<p><br>
+<img src="./img/Untitled.png" alt="manhã"><br>
+<img src="./img/Untitled(1).png" alt="tarde"><br>
+<img src="./img/Untitled(2).png" alt="noite"><br><br>
 <h2>
 🚀 Tecnologias Utilizadas: <h2>
     HTML5
